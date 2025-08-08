@@ -1,0 +1,19 @@
+d:\portfolio
+│
+├── src
+│   ├── components
+│   │   ├── LandingPage.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Skills.jsx
+│   │   ├── Certifications.jsx
+│   │   ├── Education.jsx
+│   │   ├── Navbar.jsx
+│   │   └── Contact.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── assets
+│       └── profile.jpg
+├── index.html
+├── tailwind.config.js
+├── postcss.config.js
+└── vite.config.mjs
