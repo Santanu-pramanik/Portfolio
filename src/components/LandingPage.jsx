@@ -88,7 +88,7 @@ function LandingPage() {
           </div>
           {/* Download Resume Button */}
           <a
-            href="https://pdflink.to/225a2dfa/"
+            href="https://drive.google.com/file/d/1BSHCBbU6HS6ku0nKTS9bTCgyZLbTEDrH/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-blue-500 text-white px-6 py-2 rounded shadow hover:bg-blue-600 transition mt-8"
